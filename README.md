@@ -1,8 +1,8 @@
-#🏏 Live Cricket Score Feed Extension
-#🚀 Real-time cricket scores, right in your browser! This extension delivers live updates from ongoing matches, ensuring you stay in sync #with the action, no matter where you are.
+#🏏 Live Cricket Score Feed Extension<br>
+#🚀 Real-time cricket scores, right in your browser! This extension delivers live updates from ongoing matches, ensuring you stay in sync #with the action, no matter where you are.<br>
 
-#🔥 Features:
-#Instant live score updates from major cricket matches
+#🔥 Features:<br>
+#Instant live score updates from major cricket matches<br>
 Minimalistic design for a clutter-free experience
 Lightweight and easy to use with seamless browser integration
 Built for cricket enthusiasts and designed for performance
