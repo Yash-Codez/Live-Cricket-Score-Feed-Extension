@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Live Cricket Score",
+    "version": "1.0",
+    "description": "Fetches live cricket match scores and displays them.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.jpeg"
+    },
+    "permissions": [
+      "https://api.cricapi.com/"
+    ]
+  }
+  

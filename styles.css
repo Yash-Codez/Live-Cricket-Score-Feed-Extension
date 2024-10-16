@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+}
+
+#live-score {
+    text-align: center;
+}
+
+.match {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+p {
+    margin: 5px 0;
+}
