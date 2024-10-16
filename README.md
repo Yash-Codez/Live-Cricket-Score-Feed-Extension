@@ -6,6 +6,7 @@
 Minimalistic design for a clutter-free experience<br>
 Lightweight and easy to use with seamless browser integration<br>
 Built for cricket enthusiasts and designed for performance<br>
+<img src="https://github.com/Yash-Codez/Live-Cricket-Score-Feed-Extension/blob/main/Screenshot%202024-10-16%20165923.png" alt="image of extension working">
 📦 How to Install the Live Cricket Score Feed Extension to Your Browser:<br>
 For Chrome or Edge:<br>
 Download the Extension Files:<br>
